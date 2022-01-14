@@ -10,7 +10,7 @@ The algorithm estimates the respiration rates from the repiration related motion
 
 # Data
 
-For privacy reasons, we are unable to share the data set.
+For privacy reasons, we are unable to share the data set currently.
 
 # How to run?
 
