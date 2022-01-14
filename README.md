@@ -12,3 +12,11 @@ The algorithm estimates the respiration rates from the repiration related motion
 
 For privacy reasons, we are unable to share the data set.
 
+# How to run?
+
+Step1: Clone the repository!
+
+Step2: In the project start a command line run the following:
+```
+jupyter notebook
+```
