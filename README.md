@@ -6,4 +6,4 @@ This is an implementation of the camera based Respiration Rate Estimator Algorit
 <img src="https://i.imgur.com/MRROn41.jpg" width="1000">
 </p>
 
-The algorithm estimates the respiration rates from the repiration related motion on the ROI which is detected by a convolutinal neural network. This was desigend to work on RGB frames that contain images from newborn babies in neonatal intensive care unit. The input is a hdf5 file which contain the frames from the infant. The ROI-detector was trained to detect the belly or the back of the babies in daytime shots.
+The algorithm estimates the respiration rates from the repiration related motion that can be found on the ROI which is detected by a convolutinal neural network. This was desigend to work on RGB frames that contain images from newborn babies in neonatal intensive care units. The input is a hdf5 file which contain the frames from the infant. The ROI-detector was trained to detect the belly or the back of the babies in daytime shots.
