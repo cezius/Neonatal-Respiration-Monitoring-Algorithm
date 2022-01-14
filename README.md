@@ -16,7 +16,11 @@ For privacy reasons, we are unable to share the data set.
 
 Step 1: Clone the repository!
 
-Step 2: In the project start a command line run the following:
+Step 2: In the root of the cloned project, start a command line run the following:
 ```
 jupyter notebook
+```
+Step 3:In the opened browser, open the following:
+```
+Colab_Mask_R_CNN_Demo.ipynb
 ```
