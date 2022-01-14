@@ -20,7 +20,7 @@ Step 2: In the root of the cloned project, start a command line run the followin
 ```
 jupyter notebook
 ```
-Step 3:In the opened browser, open the following:
+Step 3: In the opened browser, open the following:
 ```
 RunRespMonitoringOnMyHDF5.ipynb
 ```
